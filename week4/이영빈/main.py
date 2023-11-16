@@ -70,5 +70,3 @@ plt.yticks(fontsize=10)
 plt.show()
 
 df_2022.to_excel('iss_2022.xlsx')
-
-#1. 도움이 되는 프로그래밍 언어 종류
